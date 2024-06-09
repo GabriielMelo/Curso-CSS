@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(14, 124, 109);
+}
+
+p{color: white;}
+
+.bg-image{
+    background-image: url("../Aula3/imagens/bg1.jpg");
+    background-size: cover;
+    
+}

@@ -1,0 +1,12 @@
+/*DEFININDO CORES COM CODIGO HEXADECIMAL*/
+h1{
+    color:#ee82ee
+}
+/*DEFININDO CORES POR NOMES*/
+p{
+    color:blueviolet
+}
+/*DEFININDO CORES COM RGB*/
+.cores{
+    color: rgb(165, 42, 42);
+}

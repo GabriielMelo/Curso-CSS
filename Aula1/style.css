@@ -1,0 +1,40 @@
+/*SELETORES*/
+
+/*APLICANDO CSS DIRETAMENTE NO ELEMENTO*/
+body{
+    background-color: rgb(245, 230, 230);
+}
+p{
+    color: blue;
+}
+/*APLICANDO ESTILO EM CLASSES
+Classes podem ser definidas para estilizar vários elementos na mesma página, permitindo alterar vários elementos ao mesmo tempo.
+*/
+.center{
+    text-align: center;
+}
+
+.vermelho{
+    color: red;
+}
+
+.fonte-30{
+    font-size: 30px;
+}
+/*EPLICANDO ESTILO EM ID'S
+IDs são únicos em uma página e podem ser aplicados apenas a um elemento, tornando assim seu uso mais específico.
+*/
+#titulo{
+    color: blue;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*seletor global > 
+*{
+este seletor atinge todos os elementos da pagina
+}
+*/
+/**/
